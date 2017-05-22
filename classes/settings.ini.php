@@ -1,6 +1,6 @@
 ;<?php return; ?>
 [SQL]
 host = localhost
-user = root
-password = 
+user = zpro
+password = zpro
 dbname = testdb
